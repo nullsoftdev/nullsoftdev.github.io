@@ -4,6 +4,9 @@
 BridgeJS был создан для удобного объеденения нескольких проектов  
 
 BridgeJS использует [socket.io и socket.io-client](http://socket.io/)
+### Этапы разработки
+- [x] This is a complete item
+- [ ] This is an incomplete item
 ### API
 ## Сервер
 ```javascript
